@@ -8,9 +8,7 @@
 - **每周一书：**偏向于社会科学类书籍。我个人认为产品从业者要尽可能吸收社会科学的见解来提升思考力。
 - **思考与讨论：**留下一个开放性问题，有意思的回答可以放在下期一起学习。
 
-个人见识有限，偏颇之处在所难免。欢迎你通过评论/邮件的方式来分享你的看法，我的邮箱是：herbertchang19@gmail.com。
-
-欢迎投稿，推荐或自荐文章/新产品/资源，请[提交 issue](https://github.com/HerbertChang/pmweekly/issues) 。
+个人见识有限，偏颇之处在所难免。本杂志开源（GitHub: [HerbertChang/pmweekly](https://github.com/HerbertChang/pmweekly)），欢迎提交 issue，也欢迎你通过评论/邮件的方式来分享你的看法，我的邮箱是：herbertchang19@gmail.com。
 
 
 
