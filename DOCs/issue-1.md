@@ -104,9 +104,9 @@
 
 ## 订阅
 
-这个周刊每周日发布，同步更新在[GitHub](<https://github.com/HerbertChang/pmweekly>)、[微信公众号](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E8%8B%A5%E6%84%9A%E8%8B%A5%E6%98%8F&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=10610&sst0=1571666684054&lkt=0%2C0%2C0）和[语雀](https://yuque.com/herbert-chang/pmweekly/)。
+这个周刊每周日发布，同步更新在[GitHub](<https://github.com/HerbertChang/pmweekly>)、[微信公众号](<https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E8%8B%A5%E6%84%9A%E8%8B%A5%E6%98%8F&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=10610&sst0=1571666684054&lkt=0%2C0%2C0>）和[语雀](<https://yuque.com/herbert-chang/pmweekly/>)。
 
-微信搜索“若愚若昏”，即可订阅。
+微信搜索「若愚若昏」，即可订阅。
 
 
 
