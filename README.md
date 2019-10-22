@@ -15,3 +15,8 @@
 ## 2019
 
 **十月**：[第 1 期](DOCs/issue-1.md):high_brightness: | 
+
+
+
+# 想法来自阮一峰老师的《科技爱好者周刊》
+https://github.com/ruanyf/weekly
