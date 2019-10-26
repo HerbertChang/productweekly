@@ -90,7 +90,8 @@ Aeon 杂志这篇文章讨论了自由意志与自私行为，提到科技加持
 <br />
 <a name="g6Ob4"></a>
 ## 订阅
-这个周刊每周日发布，同步更新在[GitHub](https://github.com/HerbertChang/pmweekly)、[微信公众号](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E8%8B%A5%E6%84%9A%E8%8B%A5%E6%98%8F&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=10610&sst0=1571666684054&lkt=0%2C0%2C0)和[语雀](https://yuque.com/herbert-chang/pmweekly/)。<br />微信搜索「若愚若昏」，即可订阅。<br />![qrcode_for_gh_8aa200a62b9a_258.jpg](https://cdn.nlark.com/yuque/0/2019/jpeg/535404/1571989117002-cef6be63-7b29-4ac4-a35f-3b5a43e7ce88.jpeg#align=left&display=inline&height=149&name=qrcode_for_gh_8aa200a62b9a_258.jpg&originHeight=258&originWidth=258&search=&size=27692&status=done&width=149)
+这个周刊每周日发布，同步更新在[GitHub](https://github.com/HerbertChang/pmweekly)、[微信公众号](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E8%8B%A5%E6%84%9A%E8%8B%A5%E6%98%8F&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=10610&sst0=1571666684054&lkt=0%2C0%2C0)和[语雀](https://yuque.com/herbert-chang/pmweekly/)。
+微信搜索「若愚若昏」，即可订阅。
 
 <a name="BdRqX"></a>
 ## 想法来自阮一峰老师的《科技爱好者周刊》
