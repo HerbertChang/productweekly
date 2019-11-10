@@ -2,11 +2,11 @@
 
 ![Wu_Zhen_Fisherman.jpg](https://cdn.nlark.com/yuque/0/2019/jpeg/535404/1573351721939-916f0d17-30db-45df-8f51-74d471d24a2e.jpeg#align=left&display=inline&height=480&name=Wu_Zhen_Fisherman.jpg&originHeight=480&originWidth=716&search=&size=112590&status=done&width=716)<br />欢迎来到产品爱好者周刊。这里用于分享我个人对产品行业的一些观点，计划每周更新一期，内容设计如下：
 
-- **新产品介绍：**值得关注的新产品，包括但不限于 APP、网站、小程序、企业服务。
-- **本期聚焦：**某个/某类产品详细解读。
-- **佳文推介：**产品/商业/管理类文章，中英都有。
-- **每周一书：**偏向于社会科学类书籍。我个人认为产品从业者要尽可能吸收社会科学的见解来提升思考力。
-- **浴室沉思：**书桌前想不明白的问题，浴室也未必能想明白。
+- **新产品介绍**：值得关注的新产品，包括但不限于 APP、网站、小程序、企业服务。
+- **本期聚焦**：某个/某类产品详细解读。
+- **佳文推介**：产品/商业/管理类文章，中英都有。
+- **每周一书**：偏向于社会科学类书籍。我个人认为产品从业者要尽可能吸收社会科学的见解来提升思考力。
+- **浴室沉思**：书桌前想不明白的问题，浴室也未必能想明白。
 
 个人见识有限，偏颇之处在所难免。本杂志开源（GitHub: [HerbertChang/pmweekly](https://github.com/HerbertChang/pmweekly)），欢迎提交 issue，也欢迎你通过评论/邮件的方式来分享你的看法，我的邮箱是：[herbertchang19@gmail.com](mailto:herbertchang19@gmail.com)。
 
