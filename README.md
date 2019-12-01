@@ -15,7 +15,7 @@
 ## 2019
 
 - **十二月**：[第 7 期](DOCs/issue-7.md):high_brightness: |
-- **十一月**：[第 6 期](DOCs/issue-6.md)|[第 5 期](DOCs/issue-5.md)|[第 4 期](DOCs/issue-4.md) | [第 3 期](DOCs/issue-3.md) | 
+- **十一月**：[第 6 期](DOCs/issue-6.md) | [第 5 期](DOCs/issue-5.md) | [第 4 期](DOCs/issue-4.md) | [第 3 期](DOCs/issue-3.md) | 
 - **十月**：[第 2 期](DOCs/issue-2.md) | [第 1 期](DOCs/issue-1.md) | 
 
 
