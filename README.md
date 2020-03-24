@@ -8,7 +8,7 @@
 - **每周一书**：偏向于社会科学类书籍。我个人认为产品从业者要尽可能吸收社会科学的见解来提升思考力。
 - **浴室沉思**：书桌前想不明白的问题，浴室也未必能想明白。
 
-个人见识有限，偏颇之处在所难免。本杂志开源（GitHub: [HerbertChang/pmweekly](https://github.com/HerbertChang/pmweekly)），欢迎提交 issue，也欢迎你通过评论/邮件的方式来分享你的看法，我的邮箱是：herbertchang19#gmail.com(#替换为艾特)。
+本周刊遵循 CC BY-NC-ND 标准许可。个人见识有限，偏颇之处在所难免。欢迎提交 issue（GitHub: [HerbertChang/pmweekly](https://github.com/HerbertChang/pmweekly)），也欢迎你通过评论/邮件的方式来分享你的看法，我的邮箱是：herbertchang19#gmail.com(#替换为艾特)。
 
 
 
