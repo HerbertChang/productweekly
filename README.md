@@ -13,7 +13,7 @@
 
 ## 2020
 
-- **七月**：[第 23 期](DOCs/issue-23.md)🔆|[第 22 期](DOCs/issue-22.md) |
+- **七月**：[第 25 期](DOCs/issue-25.md)🔆|[第 24 期](DOCs/issue-24.md) |[第 23 期](DOCs/issue-23.md) |[第 22 期](DOCs/issue-22.md) |
 - **六月**：[第 21 期](DOCs/issue-21.md) | [第 20 期](DOCs/issue-20.md) |[第 19 期](DOCs/issue-19.md) | [第 18 期](DOCs/issue-18.md) |
 - **五月**：[第 17 期](DOCs/issue-17.md) | [第 16 期](DOCs/issue-16.md) | [第 15 期](DOCs/issue-15.md) | [第 14 期](DOCs/issue-14.md) | [第 13 期](DOCs/issue-13.md)|
 - **四月**：[第 12 期](DOCs/issue-12.md) | [第 11 期](DOCs/issue-11.md) |  [第 10 期](DOCs/issue-10.md) | 
@@ -27,7 +27,7 @@
 - **十月**：[第 2 期](DOCs/issue-2.md) | [第 1 期](DOCs/issue-1.md) | 
 
 ## 订阅
-如无意外，本周刊每周日发布，同步更新在 [个人博客](https://herbertchang.github.io)、[GitHub](https://github.com/HerbertChang/pmweekly)、[微信公众号](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E8%8B%A5%E6%84%9A%E8%8B%A5%E6%98%8F&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=10610&sst0=1571666684054&lkt=0%2C0%2C0)、[语雀](https://yuque.com/herbert-chang/pmweekly/)和[邮件订阅组](https://productweekly.substack.com/)。本周刊遵循 CC BY-NC-ND 标准。本周刊推出邮件订阅服务，提供更好的阅读体验，请访问 [https://productweekly.substack.com/](https://productweekly.substack.com/) 开启订阅，推荐使用 Gmail、Protonmail、iCloud 等国外邮件服务来进行订阅。如果觉得「产品周刊 Product Weekly」有价值，请分享给你的朋友或社交网络。欢迎将建议、内容分享和产品/设计岗位内推需求发送给我。微信搜索「若愚若昏」，可关注我的微信公众号。<br />![](https://cdn.nlark.com/yuque/0/2019/jpeg/535404/1571989117002-cef6be63-7b29-4ac4-a35f-3b5a43e7ce88.jpeg#align=left&display=inline&height=120&margin=%5Bobject%20Object%5D&originHeight=258&originWidth=258&status=done&style=none&width=120)
+如无意外，本周刊每周更新，发布在 [个人博客](https://herbertchang.github.io)、[GitHub](https://github.com/HerbertChang/pmweekly)、[微信公众号](https://weixin.sogou.com/weixin?type=1&s_from=input&query=%E8%8B%A5%E6%84%9A%E8%8B%A5%E6%98%8F&ie=utf8&_sug_=y&_sug_type_=&w=01019900&sut=10610&sst0=1571666684054&lkt=0%2C0%2C0)、[语雀](https://yuque.com/herbert-chang/pmweekly/)和[邮件订阅组](https://productweekly.substack.com/)。本周刊遵循 CC BY-NC-ND 标准。本周刊推出邮件订阅服务，提供更好的阅读体验，请访问 [https://productweekly.substack.com/](https://productweekly.substack.com/) 开启订阅，推荐使用 Gmail、Protonmail、iCloud 等国外邮件服务来进行订阅。如果觉得「产品周刊 Product Weekly」有价值，请分享给你的朋友或社交网络。欢迎将建议、内容分享和产品/设计岗位内推需求发送给我。微信搜索「若愚若昏」，可关注我的微信公众号。<br />![](https://cdn.nlark.com/yuque/0/2019/jpeg/535404/1571989117002-cef6be63-7b29-4ac4-a35f-3b5a43e7ce88.jpeg#align=left&display=inline&height=120&margin=%5Bobject%20Object%5D&originHeight=258&originWidth=258&status=done&style=none&width=120)
 
 ## 推荐
 - [黄埔犬校](https://pmthinking.us11.list-manage.com/track/click?u=c4dcdf8a6b76265256adf8255&id=a540a873a8&e=5f9cbb74d3)：纯银的黄埔犬校内容精选 
