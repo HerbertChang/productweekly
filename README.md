@@ -13,10 +13,11 @@
 
 ## 2020
 
-- **七月**：[第 25 期](DOCs/issue-25.md)🔆|[第 24 期](DOCs/issue-24.md) |[第 23 期](DOCs/issue-23.md) |[第 22 期](DOCs/issue-22.md) |
-- **六月**：[第 21 期](DOCs/issue-21.md) | [第 20 期](DOCs/issue-20.md) |[第 19 期](DOCs/issue-19.md) | [第 18 期](DOCs/issue-18.md) |
+- **八月**：[第 26 期](DOCs/issue-26.md)🔆|
+- **七月**：[第 25 期](DOCs/issue-25.md) | [第 24 期](DOCs/issue-24.md) | [第 23 期](DOCs/issue-23.md) | [第 22 期](DOCs/issue-22.md) |
+- **六月**：[第 21 期](DOCs/issue-21.md) | [第 20 期](DOCs/issue-20.md) | [第 19 期](DOCs/issue-19.md) | [第 18 期](DOCs/issue-18.md) |
 - **五月**：[第 17 期](DOCs/issue-17.md) | [第 16 期](DOCs/issue-16.md) | [第 15 期](DOCs/issue-15.md) | [第 14 期](DOCs/issue-14.md) | [第 13 期](DOCs/issue-13.md)|
-- **四月**：[第 12 期](DOCs/issue-12.md) | [第 11 期](DOCs/issue-11.md) |  [第 10 期](DOCs/issue-10.md) | 
+- **四月**：[第 12 期](DOCs/issue-12.md) | [第 11 期](DOCs/issue-11.md) | [第 10 期](DOCs/issue-10.md) | 
 - **三月**：[第 9 期](DOCs/issue-9.md) | [第 8 期](DOCs/issue-8.md) | 
 
 
