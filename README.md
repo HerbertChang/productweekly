@@ -13,7 +13,7 @@
 
 ## 2020
 
-- **八月**：[第 27 期](DOCs/issue-27.md)🔆| [第 26 期](DOCs/issue-26.md) |
+- **八月**：[第 28 期](DOCs/issue-28.md)🔆| [第 27 期](DOCs/issue-27.md) | [第 26 期](DOCs/issue-26.md) |
 - **七月**：[第 25 期](DOCs/issue-25.md) | [第 24 期](DOCs/issue-24.md) | [第 23 期](DOCs/issue-23.md) | [第 22 期](DOCs/issue-22.md) |
 - **六月**：[第 21 期](DOCs/issue-21.md) | [第 20 期](DOCs/issue-20.md) | [第 19 期](DOCs/issue-19.md) | [第 18 期](DOCs/issue-18.md) |
 - **五月**：[第 17 期](DOCs/issue-17.md) | [第 16 期](DOCs/issue-16.md) | [第 15 期](DOCs/issue-15.md) | [第 14 期](DOCs/issue-14.md) | [第 13 期](DOCs/issue-13.md)|
@@ -39,7 +39,11 @@
 - [Deep Reading 精选](https://assets.iois.me/uzjhgqzglpa.html)：在事实之上，构建一个关于观点（洞察）与故事的筛选机制
 - [新闻实验室微信公众号文章备份](https://github.com/Newslab2020/Contents/blob/master/wechataccount.md)：优化媒体食谱，提高媒介素养
 - [Notion 中文社区](https://notion.cx/)：Better Life, Better Work
+- [数据产品的日常](https://www.notion.so/da53956e706a4b0c8aabb757c0259382)：数据 PM 资料库
 - [el producto](http://elproducto.eu/)：Tech & Product Management News and Thoughts
+- [透明盒子计划](https://clearbox.substack.com/)：非虚构类书籍阅读笔记
+- [DEX 周刊](https://news.dex.group/f3b9324ec1c545f3a7ad31d71da1fc38?v=13a31b332fd8465a9bb81d92748643b4)：DEX 旗下关于产品、设计和开发的邮件订阅列表
+- [独立 blog 订阅列表 by 利器 liqi.io](https://www.notion.so/blog-by-liqi-io-4bdf37d4fb3443b4b6dbed8317450307)：中文独立博客列表
 
 ## 致谢
 想法来自阮一峰老师的《科技爱好者周刊》。特此致谢！ https://github.com/ruanyf/weekly
