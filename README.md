@@ -13,7 +13,7 @@
 
 ## 2020
 
-- **九月**：[第 32 期](DOCs/issue-32.md)🔆| [第 31 期](DOCs/issue-31.md) |
+- **九月**：[第 33 期](DOCs/issue-33.md)🔆| [第 32 期](DOCs/issue-32.md) | [第 31 期](DOCs/issue-31.md) |
 - **八月**：[第 30 期](DOCs/issue-30.md) | [第 29 期](DOCs/issue-29.md) | [第 28 期](DOCs/issue-28.md) | [第 27 期](DOCs/issue-27.md) | [第 26 期](DOCs/issue-26.md) |
 - **七月**：[第 25 期](DOCs/issue-25.md) | [第 24 期](DOCs/issue-24.md) | [第 23 期](DOCs/issue-23.md) | [第 22 期](DOCs/issue-22.md) |
 - **六月**：[第 21 期](DOCs/issue-21.md) | [第 20 期](DOCs/issue-20.md) | [第 19 期](DOCs/issue-19.md) | [第 18 期](DOCs/issue-18.md) |
